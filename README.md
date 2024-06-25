@@ -16,4 +16,7 @@ cd wasserstoff-FrontendTask
 - To run the project
 npm install
 npm run dev
+- To build the project
+npm run build
+```
 
