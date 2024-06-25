@@ -11,7 +11,7 @@
 ## Steps to Run/Build the Project
 
 ```bash
-git clone https://github.com/mRahulRoy/rahul-kumar-roy-wasserstoff-FrontendTask.git
+git clone https://github.com/Dharmendrakumar16/Dharmendra-kumar-wasserstoff-FrontendTask.git
 cd wasserstoff-FrontendTask
 - To run the project
 npm install
