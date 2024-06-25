@@ -16,10 +16,4 @@ cd wasserstoff-FrontendTask
 - To run the project
 npm install
 npm run dev
-- To build the project
-npm run build
-```
-[Click to view the project live](https://rahul-kumar-roy-wasserstoff-frontendtask.onrender.com/) 
- 
-Url : https://rahul-kumar-roy-wasserstoff-frontendtask.onrender.com
 
