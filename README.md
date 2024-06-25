@@ -19,5 +19,7 @@ npm run dev
 npm run build
 ```
 [Click to view the project live](https://dharmendra-kumar-wasserstoff-frontend-task.vercel.app/)
- 
 Url : https://dharmendra-kumar-wasserstoff-frontend-task.vercel.app/
+
+[Click to view Explanation Video](https://drive.google.com/file/d/1WFGoVpJqUtMHl8D25OHSbzvxpcjP7-9Z/view?usp=drive_link)
+Url : https://drive.google.com/file/d/1WFGoVpJqUtMHl8D25OHSbzvxpcjP7-9Z/view?usp=drive_link
